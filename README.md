@@ -40,8 +40,6 @@ Welcome to my GitHub! I'm a passionate software programmer, IoT enthusiast, and 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-0060AC?style=for-the-badge&logo=none)
-
----
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
